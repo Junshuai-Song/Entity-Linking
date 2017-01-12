@@ -16,4 +16,8 @@
 
 效果如下：
 
-![github](https://github.com/songjs1993/model/raw/master/Entity-Linking/search.png) 
+![github](https://github.com/songjs1993/Entity-Linking/raw/master/search.png) 
+
+说明请参看：介绍文档.pdf
+
+效果演示参看：演示Demo.mov
