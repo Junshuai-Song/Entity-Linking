@@ -12,3 +12,8 @@
 
 
 最终结果以Chrome插件（Chrome extension）的形式展示，用户可以在浏览网页时选择网页一段文本，直接点击插件，识别选中文本中出现的entity。
+
+
+效果如下：
+
+![github](https://github.com/songjs1993/model/raw/master/Entity-Linking/search.png) 
